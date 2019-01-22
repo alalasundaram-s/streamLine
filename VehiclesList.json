@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": 5657626673103222,
+      "externalId": "ABC123",
+      "vehicleName": "V1245",
+      "managedByOrganizationId": 5657626673103424,
+      "vehicleTypeId": 5657626673103424,
+      "licensePlate": "544 1043",
+      "make": "Ford",
+      "model": "F-150",
+      "year": 2016,
+      "vehicleIdentificationNumber": "3GYFNBE35FS556990",
+      "notes": "This is a sample vehicle for Tranzlogix",
+      "active": true,
+      "deleted": false,
+      "createdAt": "2017-12-01T07:00:00.000Z",
+      "modifiedAt": "2017-12-02T07:00:00.000Z",
+      "vinAutoDetected": false
+    },
+    {
+      "id": 5657626673103223,
+      "externalId": "ABC123",
+      "vehicleName": "V1246",
+      "managedByOrganizationId": 5657626673103424,
+      "vehicleTypeId": 5657626673103425,
+      "licensePlate": "666 1566",
+      "make": "Mazda",
+      "model": "G-230",
+      "year": 2016,
+      "vehicleIdentificationNumber": "1GNEK13Z82J225142",
+      "notes": "This is a sample vehicle",
+      "active": true,
+      "deleted": false,
+      "createdAt": "2017-12-01T07:00:00.000Z",
+      "modifiedAt": "2017-12-02T07:00:00.000Z",
+      "vinAutoDetected": false
+    },
+    {
+      "id": 5657626673103224,
+      "externalId": "ABC123",
+      "vehicleName": "V1247",
+      "managedByOrganizationId": 5657626673103426,
+      "vehicleTypeId": 5657626673103426,
+      "licensePlate": "897 2123",
+      "make": "Mazda",
+      "model": "HG-982",
+      "year": 2017,
+      "vehicleIdentificationNumber": "3TMJU4GN9EM169729",
+      "notes": "This is a sample vehicle",
+      "active": true,
+      "deleted": false,
+      "createdAt": "2018-12-01T07:00:00.000Z",
+      "modifiedAt": "2018-12-02T07:00:00.000Z",
+      "vinAutoDetected": false
+    }
+  ],
+  "paging": {
+    "offset": 100,
+    "limit": 50,
+    "count": 50
+  }
+}

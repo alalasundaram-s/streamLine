@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "eventAt": "2018-07-20T07:00:00.000Z",
+      "createdAt": "2018-07-20T07:05:00.000Z",
+      "organization": {
+        "id": 5657626673103424,
+        "externalId": "ABC123",
+        "name": "Resource Name"
+      },
+      "vehicle": {
+        "id": 5657626673103222,
+        "externalId": "ABC123",
+        "name": "V1245"
+      },
+      "user": {
+        "id": 5657626673103424,
+        "externalId": "ABC123",
+        "name": "Resource Name"
+      },
+      "device": {
+        "id": 5657626673103424,
+        "assetTag": "STTI-123"
+      },
+      "location": {
+        "latitude": 50.68886,
+        "longitude": -120.35761
+      },
+      "vehicleStatus": {
+        "speed": 25.959,
+        "heading": 71.05370330810547
+      }
+    },
+    {
+      "eventAt": "2019-01-10T07:00:00.000Z",
+      "createdAt": "2019-01-10T07:05:00.000Z",
+      "organization": {
+        "id": 5657626673103424,
+        "externalId": "ABC123",
+        "name": "Resource Name"
+      },
+      "vehicle": {
+        "id": 5657626673103223,
+        "externalId": "ABC123",
+        "name": "V1246"
+      },
+      "user": {
+        "id": 5657626673103424,
+        "externalId": "ABC123",
+        "name": "Resource Name"
+      },
+      "device": {
+        "id": 5657626673103424,
+        "assetTag": "STTI-123"
+      },
+      "location": {
+        "latitude": 40.026642,
+        "longitude": -122.094429
+      },
+      "vehicleStatus": {
+        "speed": 46.959,
+        "heading": 60.05370330810547
+      }
+    },
+    {
+      "eventAt": "2017-07-20T07:00:00.000Z",
+      "createdAt": "2017-07-20T07:05:00.000Z",
+      "organization": {
+        "id": 5657626673103424,
+        "externalId": "ABC123",
+        "name": "Resource Name"
+      },
+      "vehicle": {
+        "id": 5657626673103224,
+        "externalId": "ABC123",
+        "name": "V1247"
+      },
+      "user": {
+        "id": 5657626673103424,
+        "externalId": "ABC123",
+        "name": "Resource Name"
+      },
+      "device": {
+        "id": 5657626673103424,
+        "assetTag": "STTI-123"
+      },
+      "location": {
+        "latitude": 29.766710,
+        "longitude": -94.990210
+      },
+      "vehicleStatus": {
+        "speed": 87.959,
+        "heading": 98.05370330810547
+      }
+    }
+  ],
+  "paging": {
+    "offset": 100,
+    "limit": 50,
+    "count": 50,
+    "nextPage": "https://api.mynavistream.com/v1/activity/activities?createdSinceDate=2017-07-20T07:05:00.000Z&offset=150&limit=50"
+  }
+}
